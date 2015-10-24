@@ -1,5 +1,4 @@
-# data_science_edu
-Data Science Education
+**Data Science Education Programs**
 
 # Academies and Programs
 
