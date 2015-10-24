@@ -1,6 +1,4 @@
-**Data Science Education Programs**
-
-# Academies and Programs
+# Data Science Academies and Programs
 
 ## Full Time
 
