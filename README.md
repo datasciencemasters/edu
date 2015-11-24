@@ -16,6 +16,7 @@
 | [The Open Source Data Science Masters](datasciencemasters.org) | No | Self-designed | Free | at will | - |
 | [Bit Bootcamp - Data Science and Machine Learning](http://www.bitbootcamp.com/) | Yes | Curriculum | $3,000 | 4 weeks (part-time) | Student |
 | [Thinkful - Python Data Science](https://www.thinkful.com/courses/learn-data-science-online/) | No | Curriculum & Mentor | $1,500 | 3 months | Student |
+| [SlideRule - Data Science Intensive](https://www.mysliderule.com/workshops/data-science-intensive/) | No | Curriculum & Mentor | $499 /mo | Flexible | Student |
 
 ## Experience Building
 - [DataKind](http://www.datakind.org/) - Volunteer to work with nonprofits worldwide on data exploration, visualization, and more.
