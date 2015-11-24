@@ -12,7 +12,7 @@
 ## Part-Time or Non-intensive
 
 | Academy Name | On Premise | Structure | Price | Length | Payee | Programming Language |
-| ---- | ------ | ----- | ------ | -------- | --- |
+| ---- | ------ | ----- | ------ | -------- | --- | -- |
 | [The Open Source Data Science Masters](datasciencemasters.org) | No | Self-designed | Free | at will | - | Python |
 | [Bit Bootcamp - Data Science and Machine Learning](http://www.bitbootcamp.com/) | Yes | Curriculum | $3,000 | 4 weeks (part-time) | Student | Python |
 | [Thinkful - Python Data Science](https://www.thinkful.com/courses/learn-data-science-online/) | No | Curriculum & Mentor | $1,500 | 3 months | Student | Python |
